@@ -1,0 +1,11 @@
+#btnUpdate, #btnConfirm {
+    padding-left: 7px;
+}
+
+td:first-child {
+    padding-top: 19px;
+}
+
+input.invalid {
+    border: solid 1px red ;
+}
